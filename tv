@@ -1,7 +1,0 @@
-
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv ecuador
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
-
