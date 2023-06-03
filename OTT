@@ -14,18 +14,18 @@ https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"q0Y_t45-F7Xg7k6ovKNeyQ","kid":"wEAroH2tWwyyJ68kjqLF7g"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1626034121221763072/bpKN0Vsp_200x200.jpg" group-title="CINE Y SERIES", Azcorazon
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1626034121221763072/bpKN0Vsp_400x400.jpg" group-title="CINE Y SERIES", Azcorazon
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "mSR/NiG9c86JvD2FiDD3pg","kid": "/Nw2TIs2WW++n4/9O0CcOQ"}],"type": "temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1022/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1, tvg-logo="https://www.latacungatv.com/images/logo.png" group-title="ECUADOR", Latacunga Tv
+#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNXMSVPiHQQ7MYNFVEKRNGe5Hs6KYPk0x4rVFKpag=s900-c-k-c0x00ffffff-no-rj" group-title="ECUADOR", Latacunga Tv
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/pasiones.jpg" group-title="ECUADOR", Pasiones
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -33,7 +33,7 @@ https://ssh101.bozztv.com/ssh101/streamlatacungatv/chunks.m3u8
 https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/rrVBWe_Ae5w/mqdefault.jpg" group-title="ECUADOR", DirecTVNews
+#EXTINF:-1, tvg-logo="https://acortar.link/WHqzPW" group-title="ECUADOR", DirecTVNews
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -41,7 +41,7 @@ https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
 https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-id="DeporTV.ar", tvg-logo="https://cdn-sp.radionacional.com.ar/wp-content/uploads/2023/02/deportv.png" group-title="ECUADOR", DeporTV
+#EXTINF:-1 tvg-id="DeporTV.ar", tvg-logo="https://acortar.link/uxArU2" group-title="ECUADOR", DeporTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -49,7 +49,7 @@ https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://www.budni.de/media/056/aaf/39bc4aad6b.png" group-title="ECUADOR", Love Nature
+#EXTINF:-1 tvg-logo="https://acortar.link/7Os5v8" group-title="ECUADOR", Love Nature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
