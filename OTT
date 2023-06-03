@@ -151,10 +151,11 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXVgJ5x/Images-q-tbn-ANd9-Gc-QJM4b-Ui-CJl-GPb-BEXk6-Pl-AFWp-L9b-ABq-TH5c-HY-s-E6-h-AQe-H5brt-O6-VSf-AZ8-CIf-Opyfd-Eo-usqp-CAU.jpg" tvg-group="ECUADOR", Rts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
