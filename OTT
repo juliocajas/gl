@@ -74,12 +74,14 @@ https://b45479.2.cdn.telefonica.com/live/disk1/LoveNature/DASH/LoveNature.mpd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/860140913934336000/yM_8CFYG_400x400.jpg" tvg-group="ECUADOR", Magazine
 https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 
-#EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tnt-mexico-2670.png" tvg-group="ECUADOR", Tnt Mx
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tnt-mexico-2670.png" tvg-group="ECUADOR", Tnt Mx
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SlxUhp3Fyf7wy0RTCqcK5Q","kid":"qQyFdAVaVB63ugf/DaILxw"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1226/manifest.mpd
+https://dtvott-cbc.akamaized.net/dash_live_1226/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-id="TCMSouth.us", tvg-logo="https://i.imgur.com/WAjfEWH.png" tvg-group="ECUADOR", Tcm
