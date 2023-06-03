@@ -69,7 +69,7 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tnt-mexico-2670.png" group-title="ECUADOR", Tnt Mx
+#EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tnt-mexico-2670.png" group-title="CINE Y SERIES", Tnt Mx
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SlxUhp3Fyf7wy0RTCqcK5Q","kid":"qQyFdAVaVB63ugf/DaILxw"}],"type":"temporary"}
@@ -375,7 +375,7 @@ https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="HD" ,A3 SERIES
+#EXTINF:-1 group-title="CINE Y SERIES" ,A3 Series
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
