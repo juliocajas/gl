@@ -49,13 +49,12 @@ https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 #EXTINF:-1 tvg-logo="https://acortar.link/1WWZsJ" tvg-group="ECUADOR", Dragon Ball Z
 https://vsd127.mycdn.me/hls/3849636022855.m3u8/sig/nH0Q0YMpP9g/expires/1685673768554/srcIp/190.171.83.100/urls/45.136.21.40/clientType/0/srcAg/CHROME_ANDROID/mid/6695152787015/video.m3u8?p
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="DeporTV.ar", tvg-logo="https://cdn-sp.radionacional.com.ar/wp-content/uploads/2023/02/deportv.png" tvg-group="ECUADOR", DeporTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OlbfAEfdcJOIxgb5_y-63Q","kid":"AKd10blrWVGzw6tXmfmGjg"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-logo="https://www.budni.de/media/056/aaf/39bc4aad6b.png" tvg-group="ECUADOR", Love Nature
