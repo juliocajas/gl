@@ -21,11 +21,6 @@ https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "mSR/NiG9c86JvD2FiDD3pg","kid": "/Nw2TIs2WW++n4/9O0CcOQ"}],"type": "temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1022/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1626034121221763072/bpKN0Vsp_200x200.jpg" tvg-group="CINE Y SERIES", Azcorazon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mSR/NiG9c86JvD2FiDD3pg","kid":"/Nw2TIs2WW++n4/9O0CcOQ"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1022/manifest.mpd
-
 #EXTINF:-1, tvg-logo="https://www.latacungatv.com/images/logo.png" tvg-group="ECUADOR", Latacunga Tv
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/chunks.m3u8
 
@@ -45,10 +40,7 @@ https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RkFyu8Qik433ZjO/OoorVA","kid":"/kmUA0XdXkC+j2wWOgiK/w"}],"type":"temporary"}
 https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-logo="https://acortar.link/1WWZsJ" tvg-group="ECUADOR", Dragon Ball Z
-https://vsd127.mycdn.me/hls/3849636022855.m3u8/sig/nH0Q0YMpP9g/expires/1685673768554/srcIp/190.171.83.100/urls/45.136.21.40/clientType/0/srcAg/CHROME_ANDROID/mid/6695152787015/video.m3u8?p
-
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="DeporTV.ar", tvg-logo="https://cdn-sp.radionacional.com.ar/wp-content/uploads/2023/02/deportv.png" tvg-group="ECUADOR", DeporTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -83,13 +75,15 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SlxUhp3Fyf7wy0RTCqcK5Q","kid":"qQyFdAVaVB63ugf/DaILxw"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1226/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-id="TCMSouth.us", tvg-logo="https://i.imgur.com/WAjfEWH.png" tvg-group="ECUADOR", Tcm
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="TCMSouth.us", tvg-logo="https://i.imgur.com/WAjfEWH.png" tvg-group="ECUADOR", Tcm
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E2qHYl23I3YAtr52E5mJpw","kid":"5Zwf5O23V9+KoxKEfCEEYQ"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
+https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -101,27 +95,35 @@ https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8xhC+ZIaQSY+Xmb9TgDMcQ","kid":"FMZGiq1WUlmjICNXeseaOQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-id="OnDirecTVHDSouth.us", tvg-logo="https://www.directv.com.ar/img/ondirectv-fb-150x150.jpg" tvg-group="ECUADOR", On Drtv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="OnDirecTVHDSouth.us", tvg-logo="https://www.directv.com.ar/img/ondirectv-fb-150x150.jpg" tvg-group="ECUADOR", On Drtv
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"m9Z5pDpLV4ZJWdsQWkL66g","kid":"ZOdENn4WUI+YuiebM1ftKA"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", Espn Premiun
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty": "oct","k":"Ea1p0shPQdu1IKv+OLGf5w","kid":"TLSd80FCPLWXvz55t48qUg"}],"type":"temporary"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1125
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1125|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://acortar.link/8G87fO" group-title="ECUADOR", Puruwa
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2095793756.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" tvg-group="ECUADOR", Ecuavisa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oINPuoWzaIKvqm63QrEhIg","kid":"pWcuQtw-UyCfMh8JPpjSEA"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd
+https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/resources/3Logo%20Hechos%20Nuevo2.png" group-title="ECUADOR", Echos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
@@ -153,17 +155,23 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 #EXTINF:-1 tvg-id="116" tvg-logo="https://simg.nicepng.com/png/small/325-3252896_lifetime-tv.png"  group-title="ECUADOR",Lifetime 
 https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv
-KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXVgJ5x/Images-q-tbn-ANd9-Gc-QJM4b-Ui-CJl-GPb-BEXk6-Pl-AFWp-L9b-ABq-TH5c-HY-s-E6-h-AQe-H5brt-O6-VSf-AZ8-CIf-Opyfd-Eo-usqp-CAU.jpg" tvg-group="ECUADOR", Rts
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rFHj_VTIecdJJIeViY6-SA","kid":"XtckypWNV6S5opQv6PqH1g"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1186/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1186/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtVrGst/teleamazonas.png" tvg-group="ECUADOR", Teleamazonas
@@ -171,10 +179,17 @@ https://dtvott-abc.akamaized.net/dash_live_1186/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ACuruxxYaaDy+PNLcRcAxg","kid":"gG52qDtzNXqW4URq0VL/cQ"}],"type":"temporary"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1214
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" tvg-group="ECUADOR", Teleamazonas Ec
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-audio_0=96000-video=2000000.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGP4FSP/tc.png" tvg-group="ECUADOR", Tc Television
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tvQCgM-FXYGYPIxFXzP7ew","kid":"HczEmFsVX8ih5RfEK_c_3Q"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd
+https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" tvg-group="ECUADOR", Rtu
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
@@ -184,9 +199,6 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20180511_telerama.png" tvg-group="ECUADOR", Telerama
 https://envivo.telerama.ec/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" tvg-group="ECUADOR", Teleamazonas Ec
-https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-audio_0=96000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OTUoZeQWL50oiCQLdUqYTUBGYL7LyuNolGYEheo&usqp=CAU" group-title="ECUADOR",Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
@@ -208,9 +220,6 @@ https://cdnh8.iblups.com/hls/nYpuHInbec.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5NCnttHMAK-zh5CZmTucBYHa7bovympqRFwknZ9XirWeZkErd1w&usqp=CAU" tvg-group="ECUADOR", Ciudad Magica
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s18055g.png" tvg-group="ECUADOR", Tc Television
-https://youvideostreaming.club/hls/ecutv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="CINE Y SERIES",Canal 2
 https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8
@@ -348,7 +357,7 @@ https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/sonymovies.webp"  group-title="CINE Y SERIES",Sony Movies
-httpa://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -503,11 +512,14 @@ httpS://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 #EXTINF:-1 tvg-id="5" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/universalcrime.webp"  group-title="CINE Y SERIES",Universal Crime
 https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/universalcomedy.webp", Universal Comedy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/universalcomedy.webp", Universal Comedy
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8gUfOGEvCnHN5xdKPGxFJg","kid":"JS3bbnndU1G7lerBEV1BkQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -566,10 +578,14 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="90" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png"  group-title="CINE Y SERIES",Golden Edge
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9rMZ9xg/Dtvplus.png" tvg-group="DEPORTES", Directv+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Pq_OdI81lV_pxtudU7x5w","kid":"8Zw6jGONUsKrd7lWa8splg"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="ECUADOR", Dsports 3
@@ -997,4 +1013,3 @@ https://spt-novelas-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/sonycomedias-150x150.jpg" group-title="CINE Y SERIES", Sony Comedy
 https://spt-comedias-1-us.samsung.wurl.tv/2000.m3u8
-
