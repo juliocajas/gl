@@ -6,7 +6,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -20,7 +20,7 @@ https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -37,7 +37,7 @@ https://ssh101.bozztv.com/ssh101/streamlatacungatv/chunks.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -51,7 +51,7 @@ https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -65,7 +65,7 @@ https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -79,7 +79,7 @@ https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -93,7 +93,7 @@ https://b45479.2.cdn.telefonica.com/live/disk1/LoveNature/DASH/LoveNature.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -107,7 +107,7 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -121,7 +121,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1226/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -135,7 +135,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1235/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -149,7 +149,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -163,7 +163,7 @@ https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -180,7 +180,6 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2095793756.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -194,7 +193,6 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -209,7 +207,6 @@ https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -224,7 +221,6 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -239,7 +235,6 @@ https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -254,7 +249,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134|User-Agent="Moz
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -268,7 +262,7 @@ https://dtvott-abc.akamaized.net/dash_live_1186/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -278,14 +272,12 @@ https://dtvott-abc.akamaized.net/dash_live_1186/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtVrGst/teleamazonas.png" group-title="ECUADOR", Teleamazonas
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ACuruxxYaaDy+PNLcRcAxg","kid":"gG52qDtzNXqW4URq0VL/cQ"}],"type":"temporary"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1214
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazonas Ec
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-audio_0=96000-video=2000000.m3u8
 
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -333,7 +325,6 @@ https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -348,7 +339,6 @@ https://live3-ott.izzigo.tv/out/u/dash/AXN-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -363,7 +353,6 @@ https://live3-ott.izzigo.tv/out/u/dash/AANDE-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -378,7 +367,6 @@ https://live1-ott.izzigo.tv/out/u/dash/SPACE-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -393,7 +381,6 @@ https://live4-ott.izzigo.tv/out/u/dash/AMC-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -408,7 +395,6 @@ https://live2-ott.izzigo.tv/out/u/dash/TNT-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -423,7 +409,6 @@ https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -438,7 +423,6 @@ https://live3-ott.izzigo.tv/out/u/dash/FX-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -453,7 +437,6 @@ https://live5-ott.izzigo.tv/out/u/dash/CINEMAX-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -468,7 +451,6 @@ https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -483,7 +465,6 @@ https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -498,7 +479,6 @@ https://live2-ott.izzigo.tv/out/u/dash/PARAMOUNT-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -513,7 +493,6 @@ https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -528,7 +507,6 @@ https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -543,7 +521,6 @@ https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -558,7 +535,6 @@ https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -574,7 +550,6 @@ https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -588,7 +563,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -603,7 +577,6 @@ https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -618,7 +591,6 @@ https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -633,7 +605,6 @@ https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -648,7 +619,6 @@ https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -663,7 +633,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -678,7 +647,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -693,7 +661,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -708,7 +675,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -723,7 +689,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -738,7 +703,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -753,7 +717,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -768,7 +731,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -783,7 +745,6 @@ https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -798,7 +759,6 @@ https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -813,7 +773,6 @@ https://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -827,7 +786,6 @@ https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -842,7 +800,6 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -857,7 +814,6 @@ https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/dash/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -872,7 +828,6 @@ https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -887,7 +842,6 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -901,11 +855,9 @@ https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://acortar.link/dB9FbU", Golden
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -920,7 +872,6 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -934,7 +885,6 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -949,7 +899,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -959,11 +908,10 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" group-title="DEPORTES", Dsports
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nloG4oA7AqYAbYwZ1HOKNQ","kid":"QJRZ3YklMqCumZR71GtOSA"}],"type":"temporary"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1062
-
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -977,7 +925,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1061
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -991,7 +938,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1058
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1005,7 +951,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1019,7 +964,6 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1250
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1033,7 +977,6 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1047,7 +990,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1061,7 +1003,6 @@ https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1076,7 +1017,6 @@ https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1091,7 +1031,6 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1105,7 +1044,6 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/dash/default.mpd|User-Agent=
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1119,7 +1057,6 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1133,7 +1070,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1148,7 +1084,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1101/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1162,7 +1097,6 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1177,7 +1111,6 @@ https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1191,7 +1124,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1208,7 +1140,6 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1222,7 +1153,6 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/dash/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1236,7 +1166,6 @@ https://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1250,7 +1179,6 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/dash/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1264,7 +1192,6 @@ https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1278,7 +1205,6 @@ https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/dash/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1292,7 +1218,6 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1306,7 +1231,6 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1320,7 +1244,6 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1335,7 +1258,6 @@ https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1350,7 +1272,6 @@ https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1365,7 +1286,6 @@ https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1380,7 +1300,6 @@ https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1395,7 +1314,6 @@ https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1410,7 +1328,6 @@ https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1425,7 +1342,6 @@ https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1440,7 +1356,6 @@ https://live4-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1452,11 +1367,16 @@ https://live4-ott.izzigo.tv/out/u/dash/NICK-2-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/nickjr.webp"  group-title="INFANTILES",Nick Junior
 https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
 
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTINF:-1 tvg-logo="https://acortar.link/1RG4jc"  group-title="INFANTILES", Dreamworks 
 https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
@@ -1464,7 +1384,6 @@ https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1479,7 +1398,6 @@ https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1494,7 +1412,6 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1509,7 +1426,6 @@ https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1524,7 +1440,6 @@ https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1539,7 +1454,6 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1554,7 +1468,6 @@ https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1569,7 +1482,6 @@ https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1584,7 +1496,6 @@ https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1599,7 +1510,6 @@ https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1614,7 +1524,6 @@ https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1629,7 +1538,6 @@ https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1644,7 +1552,6 @@ https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
