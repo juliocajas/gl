@@ -723,7 +723,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jfmKBQ1/espnpe.png" group-title="DEPORTES", Espn_Ec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfmKBQ1/espnpe.png" group-title="DEPORTES", Espn_E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
