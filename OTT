@@ -78,7 +78,7 @@ https://v3.playerlatino.live/stream/m3u8/682|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas",Familia Starz Encore
 https://v3.playerlatino.live/stream/m3u8/684|user-agent=Lavf/57.71.001
 
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ec-oromar-tv-4008.jpg" tvg-group="ECUADOR", Oromar Tv
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ec-oromar-tv-4008.jpg" group-title="ECUADOR", Oromar Tv
 http://200.24.151.134:8000/play/a01h
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png"  group-title="CINE Y SERIES",Cine Mexicano
