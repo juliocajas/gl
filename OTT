@@ -1,5 +1,17 @@
 #EXTM3U list-name="TV-HD" list-image="https://png.pngtree.com/png-vector/20210311/ourmid/pngtree-simple-television-png-image_3021772.png"
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfmKBQ1/espnpe.png" tvg-group="DEPORTES", Espn_Ec
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "LR0qEkVLaC3xl/8m/1JTpQ", "kid": "U01IiFKzMwKEMH0aPKD9Ow" } ], "type": "temporary
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1109
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR",Oromar Tv_Ec
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
