@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://stream.oromartv.com:8082/
-#EXTVLCOPT:http-referrer=https://oromartv.com/
+#EXTVLCOPT:http-referrer=https://oromartv.com/tv-en-vivo/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT--http-reconnect=true
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
@@ -1105,13 +1105,3 @@ https://spt-comedias-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmN7vlr.png", group-title="ECUADOR", Gol Tv 2
 http://www.tvnetplay.com:32100/live/1803522430/EVZvIVlCnV/12314.ts
-
-#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR",Oromar Tv_Ec
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://stream.oromartv.com:8082/
-#EXTVLCOPT:http-referrer=https://oromartv.com/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTVLCOPT--http-reconnect=true
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
