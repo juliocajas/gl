@@ -1,5 +1,23 @@
 #EXTM3U list-name="TV-HD" list-image="https://png.pngtree.com/png-vector/20210311/ourmid/pngtree-simple-television-png-image_3021772.png"
 
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ec-oromar-tv-4008.jpg" tvg-group="ECUADOR", Oromar Tv
+http://200.24.151.134:8000/play/a01h
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png"  group-title="CINE Y SERIES",Cine Mexicano
+http://200.24.151.134:8000/play/a01o
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png"  group-title="CINE Y SERIES",Cine Hispano
+http://200.24.151.134:8000/play/a01e
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png"  group-title="CINE Y SERIES",Cine Familiar
+http://200.24.151.134:8000/play/a01f
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://acortar.link/BkHNHr"  group-title="CINE Y SERIES",Cine Premium
+http://200.24.151.134:8000/play/a01d
+
+#EXTINF:-1 tvg-logo="https://acortar.link/liHmdj" tvg-group="ECUADOR", Pelileo Tv
+https://video.compuwebecuador.com:3858/live/americantvlive.m3u8
+
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/universalreality.webp", Universal Reality
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
