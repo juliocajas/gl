@@ -1,12 +1,10 @@
 #EXTM3U list-name="TV-HD" list-image="https://png.pngtree.com/png-vector/20210311/ourmid/pngtree-simple-television-png-image_3021772.png"
+
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR",Oromar Tv_Ec
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://stream.oromartv.com:8082/
-#EXTVLCOPT:http-referrer=https://oromartv.com/tv-en-vivo/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://oromartv.com/27b5582a-ee8c-48f5-bc33-389eb8b7dccd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="ECUADOR",Le Temas a la Oscuridad 
