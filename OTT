@@ -84,12 +84,12 @@ https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OTUoZeQWL50oiCQLdUqYTUBGYL7LyuNolGYEheo&usqp=CAU" group-title="ECUADOR",Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/gamatv-790x340.jpg" group-title="ECUADOR", Gama Tv
-https://www.udla.edu.ec/wp-content/uploads/2017/07/gamatv-790x340.jpg
-https://pixmmdlv.mmdlive.lldns.net:443/pixmmdlv/58f430b553a244299d94a917fc872f47/chunklist_b2592000.m3u8
-
 #EXTINF:-1 tvg-logo="https://acortar.link/6lw9zT" group-title="ECUADOR", Ok Tv
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://stream.plixitv.live/
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://oromartv.com/
 
 #EXTINF:-1 tvg-logo="https://acortar.link/AA8kvA" group-title="ECUADOR", Ecuaestereo
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083648.m3u8
