@@ -91,9 +91,6 @@ https://pixmmdlv.mmdlive.lldns.net:443/pixmmdlv/58f430b553a244299d94a917fc872f47
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://stream.plixitv.live/
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://oromartv.com/
-
 #EXTINF:-1 tvg-logo="https://acortar.link/AA8kvA" group-title="ECUADOR", Ecuaestereo
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083648.m3u8
 
