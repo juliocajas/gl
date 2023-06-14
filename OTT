@@ -304,6 +304,12 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1250
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1rH0WlnS2sGnMMf1bHSXGg","kid":"OLY/mqp7fHqCLI4UyKchLg"}],"type":"temporary"}
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", Espn_Ec
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"An_E87YnURHAyLWuhJM-qA","kid":"JET38ZspNS620cf52PcdWQ"}],"type":"temporary"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1106
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmN7vlr.png", group-title="ENTRETENIMIENTO", Gol Tv 2
 http://www.tvnetplay.com:32100/live/1803522430/EVZvIVlCnV/12314.ts
 
