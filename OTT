@@ -85,7 +85,9 @@ https://envivo.telerama.ec/stream.m3u8
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/gamatv-790x340.jpg" group-title="ECUADOR", Gama Tv
-https://pixmmdlv.mmdlive.lldns.net:443/pixmmdlv/58f430b553a244299d94a917fc872f47/chunklist_b2592000.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://pixmmdlv.mmdlive.lldns.net/
+https://pixmmdlv.mmdlive.lldns.net:443/pixmmdlv/d859139f92a24626a0de900fee7ef62e/chunklist_b4192000.m3u8
 
 #EXTINF:-1 tvg-logo="https://acortar.link/6lw9zT" group-title="ECUADOR", Ok Tv
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://stream.plixitv.live/
