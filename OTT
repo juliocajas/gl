@@ -423,7 +423,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2015/07/starz_encore2.jpg" group-title="CINE Y SERIES",Starz Encore Action
 https://v3.playerlatino.live/stream/m3u8/682|user-agent=Lavf/57.71.001
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas",Familia Starz Encore
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="CINE Y SERIES",Familia Starz Encore
 https://v3.playerlatino.live/stream/m3u8/684|user-agent=Lavf/57.71.001
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
