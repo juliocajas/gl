@@ -48,13 +48,13 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1214
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" tvg-group="ECUADOR", Imperial
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" group-title="ECUADOR", Imperial
 https://vdo.grupolimalive.com:3048/live/imperiallive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazonas Ec
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-audio_0=96000-video=2000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://acortar.link/liHmdj" group-title="ECUADOR", Pelileo Tv
+#EXTINF:-1 tvg-logo="https://www.americantvpelileo.com/images/logo.png" group-title="ECUADOR", Pelileo Tv
 https://video.compuwebecuador.com:3858/live/americantvlive.m3u8
 
 #EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNXMSVPiHQQ7MYNFVEKRNGe5Hs6KYPk0x4rVFKpag=s900-c-k-c0x00ffffff-no-rj" group-title="ECUADOR", Latacunga Tv
@@ -78,7 +78,7 @@ https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OTUoZeQWL50oiCQLdUqYTUBGYL7LyuNolGYEheo&usqp=CAU" group-title="ECUADOR",Telesistema
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/gamatv-790x340.jpg" group-title="ECUADOR", Gama Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KY25F6/Gamavision.png" group-title="ECUADOR", Gama Tv
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://pixmmdlv.mmdlive.lldns.net/
 https://pixmmdlv.mmdlive.lldns.net:443/pixmmdlv/d859139f92a24626a0de900fee7ef62e/chunklist_b4192000.m3u8
@@ -89,9 +89,6 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://acortar.link/AA8kvA" group-title="ECUADOR", Ecuaestereo
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083648.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ggjEts4xBCx3jw0Mgy2aJTlpQjIzNBZgdg43gmqAor5mSP2dc9PKpyTCMr9C9pnIcCXqHtwsrA=s900-ck-c0x00ffffff-no-rj" group-title="ECUADOR", Pasaje Tv
-https://canal.pasajetv.com/PasajeTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://n9.cl/xq8yw" group-title="ECUADOR",Cajamarca
 https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
@@ -436,7 +433,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2015/07/starz_encore2.jpg" group-title="CINE Y SERIES",Starz Encore Action
 https://v3.playerlatino.live/stream/m3u8/682|user-agent=Lavf/57.71.001
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="CINE Y SERIES",Familia Starz Encore
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/993/1017/png-transparent-pay-television-television-channel-starz-television-show-video-on-demand-family-children-television-text-logo.png" group-title="CINE Y SERIES",Familia Starz Encore
 https://v3.playerlatino.live/stream/m3u8/684|user-agent=Lavf/57.71.001
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
