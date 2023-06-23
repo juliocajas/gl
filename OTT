@@ -48,6 +48,9 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1214
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" tvg-group="ECUADOR", Imperial
+https://vdo.grupolimalive.com:3048/live/imperiallive.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazonas Ec
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-audio_0=96000-video=2000000.m3u8
 
