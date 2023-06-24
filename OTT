@@ -94,7 +94,7 @@ https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083
 https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5NCnttHMAK-zh5CZmTucBYHa7bovympqRFwknZ9XirWeZkErd1w&usqp=CAU" group-title="ECUADOR", Ciudad Magica
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" group-title="ECUADOR", Dsports 3
