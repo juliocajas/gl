@@ -1,5 +1,16 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Ecuador",LIGA DE CAMPEONES MOVISTAR
+https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=367|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RbRQi78MAr9SMQQVfiztgQ","kid":"R3KW4op/SSaKvEVoW4tpow"}]}
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTC9Jws/Logo-DHE.png" tvg-group="CINE Y SERIES", DHE
+https://anbalancer.express.com.ar/live/c1eds/DHE_HD/SA_DASH_cipix/DHE_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/622/954/png-transparent-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle-text-thumbnail.png" group-title="ECUADOR",RCN COLOMBIA
 #KODIPROP:inputstream.adaptive.license_key={"fad9eaf7a980300686af7809c0377a00":"0d270d4c1ef2a319aeaf2f424e9b1442"}
