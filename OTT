@@ -6,7 +6,7 @@
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1185
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOL TV EC
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",Gol TV HD
 #KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27":"a7fd49808f890c2500bf2180aaf42307"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
