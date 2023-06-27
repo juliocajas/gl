@@ -53,7 +53,7 @@ https://dtvott-abc.akamaized.net/dash_live_1186/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ACuruxxYaaDy+PNLcRcAxg","kid":"gG52qDtzNXqW4URq0VL/cQ"}],"type":"temporary"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1214
 
-#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV3
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
 #EXTVLCOPT:http-referrer=https://oromartv.com/
 #EXTVLCOPT:http-host=http://stream.oromartv.com:8082/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
