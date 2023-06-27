@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/juliocajas/GOLTV/main/GUIAS"
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="TPLEY",Discovery Home & Health
