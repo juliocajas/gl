@@ -165,7 +165,7 @@ https://v3.playerlatino.live/stream/m3u8/673|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="ENTRETENIMIENTO",Malcolm 
 https://v3.playerlatino.live/stream/m3u8/798|user-agent=Lavf/57.71.001
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es" group-title="CINE Y SERIES",DE PELICULA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es" group-title="CINE Y SERIES",CANTINFLAS
 https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=1011|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="ENTRETENIMIENTO",LOS SIMPSONS HD
@@ -662,7 +662,7 @@ https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="48" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png"  group-title="CINE Y SERIES",DE PELICULA HD
+#EXTINF:-1 tvg-id="48" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png"  group-title="CINE Y SERIES", DE PELICULA HD
 https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
