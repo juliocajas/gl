@@ -644,7 +644,7 @@ https://live4-ott.izzigo.tv/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
-#EXTINF:-1 tvg-id="218" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/sony.webp"  group-title="CINE Y SERIES",Sony Hd
+#EXTINF:-1 tvg-id="218" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/sony.webp"  group-title="CINE Y SERIES",Sony Channel
 https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
