@@ -1,6 +1,6 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/juliocajas/GOLTV/main/GUIAS"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/juliocajas/GUIA/main/guiaec"
+#EXTM3U url-tvg="https://epg.best/21b4e-mailyz.xml.gz"
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="TPLEY",Discovery Home & Health
 https://blackghost.live/play/totalp1-808.php?c=96&p=3&k=black&f=.m3u8
