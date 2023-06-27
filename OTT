@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
+#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Ecuador",LIGA DE CAMPEONES MOVISTAR
 https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=367|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
