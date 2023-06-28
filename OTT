@@ -601,14 +601,15 @@ https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
 #EXTINF:-1 tvg-id="89" tvg-logo="https://logo.iptveditor.com/golden.png"  group-title="CINE Y SERIES",GOLDEN
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTINF:-1 tvg-id="SyfyPanregional.us", tvg-logo="https://i.imgur.com/eM2Coud.png",SYFY HD
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="229" tvg-logo="https://logo.iptveditor.com/syfy.png"  group-title="CINE Y SERIES",SYFY HD
-https://live5-ott.izzigo.tv/out/u/dash/SYFY-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mx5B6KVaGC9pAAvckwTjzA","kid":"P5Cq/Qq4XG2S6TEU4niRew"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
