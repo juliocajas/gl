@@ -668,10 +668,16 @@ https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #EXTINF:-1 tvg-id="11" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png"  group-title="CINE Y SERIES",A3 CINE HD
 https://live3-ott.izzigo.tv/out/u/dash/A3-CINE-HD/default.mpd
 
-#EXTINF:-1 tvg-id="148" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png"   group-title="CINE Y SERIES",A3 SERIES HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "BilcjWAJpH+Mg+XA0/b90A","kid": "Sdqzv7wlXaGyCFLRcrsvUw"}],"type": "temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd
+KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" tvg-group="CINE Y SERIES", A3 SERIES HD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
