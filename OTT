@@ -1,6 +1,17 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/juliocajas/GOLTV/main/GUIAS"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="ECUADOR", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vj3Yr5C/c412c0a3e6ed0dc6cbedbfaf4bfd3921.jpg" group-title="ECUADOR", CARACOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XnP7CDWNtjTfuRnYU87Ebw","kid":"WQ6raDPUNf-UzJpa-TpDGQ"}]}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1035|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -31,10 +42,13 @@ https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tvQCgM-FXYGYPIxFXzP7ew","kid":"HczEmFsVX8ih5RfEK_c_3Q"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1213/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuavisa
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oINPuoWzaIKvqm63QrEhIg","kid":"pWcuQtw-UyCfMh8JPpjSEA"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oINPuoWzaIKvqm63QrEhIg","kid":"pWcuQtw-UyCfMh8JPpjSEA"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1092/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", GOLTV(Spanish)
@@ -487,15 +501,6 @@ https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SlxUhp3Fyf7wy0RTCqcK5Q","kid":"qQyFdAVaVB63ugf/DaILxw"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1226/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="231" tvg-logo="https://logo.iptveditor.com/tcm.png"  group-title="CINE Y SERIES",TCM
-https://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="231" tvg-id="TCMSouth.us", tvg-logo="https://i.imgur.com/WAjfEWH.png" group-title="CINE Y SERIES", TCM
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E2qHYl23I3YAtr52E5mJpw","kid":"5Zwf5O23V9+KoxKEfCEEYQ"}],"type":"temporary"}
@@ -583,14 +588,13 @@ https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd|User-Agen
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" tvg-group="CINE Y SERIES", TNT HD
 https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="239" tvg-logo="https://logo.iptveditor.com/tntseries.png"  group-title="CINE Y SERIES",TNT SERIES HD
-https://live1-ott.izzigo.tv/out/u/dash/TNT-SERIES-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="CINE Y SERIES", TNT SERIES HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p+vgzB2mncwwDxn3tKYoxw","kid":"jMuK9Kh4Vw2IeJIbhKvuGQ"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -677,17 +681,13 @@ KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}]}
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="252" tvg-logo="https://logo.iptveditor.com/warner.png"  group-title="CINE Y SERIES",WARNER HD
-https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
-
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/warner.png" group-title="CINE Y SERIES", WARNER HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Yd/vgc7hHLQZphICcLlYew","kid":"VqJHMsfFWKCyRNydX5EPhw"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1248/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -698,14 +698,13 @@ https://live5-ott.izzigo.tv/out/u/dash/WARNER-HD/default.mpd
 #EXTINF:-1 tvg-id="48" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png"  group-title="CINE Y SERIES", DE PELICULA HD
 https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="80" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png"  group-title="CINE Y SERIES",STAR CHANNEL
-https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="CINE Y SERIES", STAR CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9DM9-w5wjsmGW5pv8qjgaA","kid":"fDjZMQ08W0ajejm77G3Wig"}]}
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -716,14 +715,16 @@ https://live2-ott.izzigo.tv/out/u/dash/FOX-HD/default.mpd
 #EXTINF:-1 tvg-id="116" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png"  group-title="CINE Y SERIES",STAR HD
 https://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="98" tvg-logo="https://logo.iptveditor.com/hbo.png"  group-title="CINE Y SERIES",HBO HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="CINE Y SERIES", HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bCPjGk2DtWjoSuxgmmPryQ","kid":"me78Bo2zUJufDPWzQRQhnQ"}]}
+https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -743,23 +744,24 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 #EXTINF:-1 tvg-id="100" tvg-logo="https://logo.iptveditor.com/hbopop.png"  group-title="CINE Y SERIES",HBO POP HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="103" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png"  group-title="CINE Y SERIES",HBO+ HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="CINE Y SERIES", HBO+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"G9sxcikGatLXTEgUoTjhNg","kid":"Z5WjA6noUX+8o4N2wK8vdg"}]}
+https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="96" tvg-logo="https://logo.iptveditor.com/hbo2.png"  group-title="CINE Y SERIES",HBO 2 HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
+
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="CINE Y SERIES", HBO 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"usWBim4RNds8nyT7dS9pnw","kid":"KirtF9xgUPud7m5loGs5JQ"}]}
+https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -770,14 +772,15 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 #EXTINF:-1 tvg-id="101" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png"  group-title="CINE Y SERIES",HBO SIGNATURE HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="97" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png"  group-title="CINE Y SERIES",HBO FAMILY HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="CINE Y SERIES", HBO FAMILY HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kFrMVfNmMUMvJC4njxuwtQ","kid":"jLo/buFyURGgSSjYHFOAQA"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -865,10 +868,23 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-Canal-Catorce-HD/default.mpd
 #EXTINF:-1 tvg-id="248" tvg-logo="https://logo.iptveditor.com/unicable.png"  group-title="CINE Y SERIES",UNICABLE HD
 https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
-#EXTINF:-1 tvg-id="29" tvg-logo="https://logo.iptveditor.com/bit.png"  group-title="CINE Y SERIES",BIT ME HD 
-https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/bit.png" tvg-group="MEXICO", BIT ME HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"04W4et5EQdIMXK7iqOQdpw","kid":"PnsoHBHw/xw/ftLQLQh5wQ"}]}
+https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5szkx2/boomerang.png" tvg-group="INFANTILES", BOOMERANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hwYUadrZZ1cHhwSgPuPGfw","kid":"bYQiIvFxWlmtJGI8IXRTRA"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
@@ -903,10 +919,14 @@ https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #EXTINF:-1 tvg-id="91" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png"  group-title="CINE Y SERIES",GOLDEN MULTIPLEX
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
-#EXTINF:-1 tvg-id="39" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png"  group-title="CINE Y SERIES",CARTOON NETWORK HD
-https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="INFANTILES", CARTOON NETWORK HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ok1h5oorxLGHm1JKKZTWVA","kid":"eM55icAMUHmcp9_ikbq9Wg"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
@@ -918,23 +938,24 @@ https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 #EXTINF:-1 tvg-id="53" tvg-logo="https://logo.iptveditor.com/discoverykids.png"  group-title="CINE Y SERIES",DISCOVERY KIDS HD
 https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="240" tvg-logo="https://logo.iptveditor.com/tooncast.png"  group-title="INFANTILES",TOONCAST
-https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/tooncast.png" group-title="INFANTILES", TOONCAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QafT1SLhkhW36PYRtpAtYQ","kid":"EGOKci61TGS/sOendINoag"}]}
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="59" tvg-logo="https://logo.iptveditor.com/disneyjrla.png"  group-title="INFANTILES",DISNEY JRS HD
-https://live5-ott.izzigo.tv/out/u/dash/DISNEY-JR-HD/default.mpd
+
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/disneyjrla.png" group-title="INFANTILES", DISNEY JRS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ef3YkA0euppslVUfQY2_Bw","kid":"oH2L_i-ZVvKMoRRmtPUg1Q"}]}
+https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -954,10 +975,14 @@ https://live2-ott.izzigo.tv/out/u/dash/TRU-TV-HD/default.mpd
 #EXTINF:-1 tvg-id="62" tvg-logo="https://logo.iptveditor.com/dogtv.png"  group-title="CINE Y SERIES",DOG TV
 https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
-#EXTINF:-1 tvg-id="58" tvg-logo="https://logo.iptveditor.com/disneychannel.png"  group-title="INFANTILES",DISNEY CHANNEL HD
-https://live2-ott.izzigo.tv/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="INFANTILES", DISNEY CHANNEL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1dXtQHiOB-rzsGFraryeHg","kid":"fQxJd4vEUdK16kQ0bnKoXQ"}]}
+https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
@@ -1025,10 +1050,13 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 #EXTINF:-1 tvg-id="55" tvg-logo="https://logo.iptveditor.com/discoverytheater.png"  group-title="CINE Y SERIES",DISCOVERY THEATER HD
 https://live2-ott.izzigo.tv/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
-#EXTINF:-1 tvg-id="56" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png"  group-title="CINE Y SERIES",DISCOVERY TURBO HD
-https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="CIENCIA Y CULTURA", DISCOVERY TURBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"deZqTteIDHFlXSTlLK070w","kid":"0y2BXR9_UyW6c1YlNGYskg"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
@@ -1055,14 +1083,14 @@ https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 #EXTINF:-1 tvg-id="20" tvg-logo="https://logo.iptveditor.com/antena3.png"  group-title="CINE Y SERIES",ANTENA 3 HD
 https://live5-ott.izzigo.tv/out/u/dash/ANTENA3-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="51" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png"  group-title="CINE Y SERIES",TLC HD
-https://live1-ott.izzigo.tv/out/u/dash/TLC-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="CIENCIA Y CULTURA", TLC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IVjc-L7gN6S-e-vVvi8-mg","kid":"Y20CYfHnUIaHkeQmLIP0SA"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1223/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
@@ -1074,10 +1102,15 @@ https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
 #EXTINF:-1 tvg-id="104" tvg-logo="https://logo.iptveditor.com/history2.png"  group-title="CINE Y SERIES",HISTORY 2 HD
 https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
-#EXTINF:-1 tvg-id="105" tvg-logo="https://logo.iptveditor.com/historychannel.png"  group-title="CINE Y SERIES",HISTORY CHANNEL HD
-https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="CIENCIA Y CULTURA", DISCOVERY CHANNEL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"drE/2KKY0YisUlI4eyKGhw","kid":"gveqrknlVsGYXaBGIzffQw"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1096,10 +1129,14 @@ https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" group-title="CIENCIA Y CULTURA", DISCOVERY SCIENCE HD
 https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
-#EXTINF:-1 tvg-id="52" tvg-logo="https://acortar.link/ldod3Z"  group-title="CINE Y SERIES",DISCOVERY ID HD 
-https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" group-title="CIENCIA Y CULTURA", DISCOVERY ID HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Cw3X4MEvgVjrqmzjtofdg","kid":"qra0_bLhW--O8Hw5ewV-YA"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1076/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
 
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas-150x150.jpg" group-title="CINE Y SERIES", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/2000.m3u8
