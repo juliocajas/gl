@@ -507,9 +507,9 @@ https://v3.playerlatino.live/stream/m3u8/682|user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/684|user-agent=Lavf/57.71.001
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "jx8qlXYqMCWjC9FKU9dCyw","kid": "X2XE8MgjXFekYIXMeneUMg"}],"type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jx8qlXYqMCWjC9FKU9dCyw","kid":"X2XE8MgjXFekYIXMeneUMg"}]}
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/860140913934336000/yM_8CFYG_400x400.jpg" group-title="CINE Y SERIES", MAGACINE
-https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-id="238" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tnt-mexico-2670.png" group-title="CINE Y SERIES", TNT MX
