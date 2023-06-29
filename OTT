@@ -1,5 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/juliocajas/GOLTV/main/GUIAS"
 
+#EXTINF:-1 tvg-id="Oromar(ORO)(190)" tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",extremm
+#EXTVLCOPT:http-referrer=https://ok.ru/
+#EXTVLCOPT:http-host=https://vsd186.mycdn.me/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://vsd186.mycdn.me/hls/3849692514887.m3u8/sig/wX1bUdaISmc/expires/1688134728848/srcIp/190.171.83.100/urls/45.136.22.66/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?p
+
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer="https://ok.ru/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" group-title="CINE Y SERIES", xtreme
+https://vsd186.mycdn.me/hls/3849692514887.m3u8/sig/wX1bUdaISmc/expires/1688134728848/srcIp/190.171.83.100/urls/45.136.22.66/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?p|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer="https://ok.ru/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" group-title="CINE Y SERIES", xtrem
+https://vsd186.mycdn.me/hls/3849692514887.m3u8/sig/wX1bUdaISmc/expires/1688134728848/srcIp/190.171.83.100/urls/45.136.22.66/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?p|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="ECUADOR", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
