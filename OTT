@@ -1,5 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/juliocajas/GOLTV/main/GUIAS"
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",a espn
+#KODIPROP:inputstream.adaptive.license_key={"120a14e524f637d4b897c0b70a52d91f":"5c78b4010783b638eac8bc2e852858ac"}
+https://dtvott-jbc.akamaized.net/dash_live_1116/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wLgtTc/hbopop.png" tvg-group="CINE Y SERIES", HBO POP OP2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b/Kfsta32CXrBgBGUKCk6g","kid":"vPNvQS+j1zXOoE90Q/v3fA"}]}
