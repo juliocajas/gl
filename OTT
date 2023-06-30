@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/juliocajas/GOLTV/main/GUIAS"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6wLgtTc/hbopop.png" tvg-group="CINE Y SERIES", HBO POP OP2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b/Kfsta32CXrBgBGUKCk6g","kid":"vPNvQS+j1zXOoE90Q/v3fA"}]}
+https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 
 #EXTINF:-1 tvg-id="102" tvg-logo="https://logo.iptveditor.com/hboxtreme.png"  group-title="CINE Y SERIES",HBO XTREME HD8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
