@@ -6,22 +6,28 @@
 https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
-#EXTINF:-1 tvg-id="102" tvg-logo="https://logo.iptveditor.com/hboxtreme.png"  group-title="CINE Y SERIES",HBO XTREME HD8
+
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer="https://ok.ru/videoembed/6695203184199"
-#EXTVLCOPT:http-referrer="https://vsd186.mycdn.me/"
+#EXTVLCOPT:http-referrer="https://c.adskeeper.co.uk/vz/"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE3 
 https://vsd237.mycdn.me/dash/stream_3849692514887/stream.manifest/sig/bpuzXuhpJfw/expires/1688217516102/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/GECKO/mid/6695203184199/frag-medium-7029437.dash|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#EXTINF:-1 tvg-id="102" tvg-logo="https://logo.iptveditor.com/hboxtreme.png"  group-title="CINE Y SERIES",HBO XTREME HD7
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-host="https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1"
-#EXTVLCOPT:http-host="https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1"
+#EXTVLCOPT:http-referrer="https://ok.ru/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"edef8ba979d64acea3c827dcd51d21ed"}
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE2 
 https://vsd186.mycdn.me/hls/3849692514887.m3u8/sig/wX1bUdaISmc/expires/1688134728848/srcIp/190.171.83.100/urls/45.136.22.66/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#EXTINF:-1 tvg-id="102" tvg-logo="https://logo.iptveditor.com/hboxtreme.png"  group-title="CINE Y SERIES",HBO XTREME HD6
+#KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer="https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1"
-https://vsd186.mycdn.me/hls/3849692514887.m3u8/sig/wX1bUdaISmc/expires/1688134728848/srcIp/190.171.83.100/urls/45.136.22.66/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTVLCOPT:http-referrer="https://ok.ru/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"edef8ba979d64acea3c827dcd51d21ed"}
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE1 
+https://vsd237.mycdn.me/dash/stream_3849692514887/stream.manifest/sig/bpuzXuhpJfw/expires/1688217516102/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/GECKO/mid/6695203184199/frag-medium-7029443.dash
 
 #EXTINF:-1 tvg-id="102" tvg-logo="https://logo.iptveditor.com/hboxtreme.png"  group-title="CINE Y SERIES",HBO XTREME HD5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
