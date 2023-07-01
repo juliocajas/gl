@@ -14,21 +14,21 @@ https://live6-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd|User-Agent="Moz
 
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer="https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1"
+#EXTVLCOPT:http-referrer="https://ok.ru/videoembed/6695203184199/"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" group-title="CINE Y SERIES", xtremA
-https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1
+https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8/https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1
 
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" group-title="CINE Y SERIES", xtremS
-https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?id=https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1
+https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1
 
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" group-title="CINE Y SERIES", xtremD
-https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?id=6695203184199?nochat=1&autoplay=1
+https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?6695203184199?nochat=1&autoplay=1
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="ECUADOR", ESTRELLA TV
