@@ -3,8 +3,7 @@
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extrem
-#EXTINF:-1 tvg-logo="https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1" 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png/https://ok.ru/videoembed/6695203184199?nochat=1&autoplay=1" group-title="CINE Y SERIES", ahbo extrem
 https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?id=6695203184199?nochat=1&autoplay=1
 
 #KODIPROP:mimetype=application/x-mpegURL
