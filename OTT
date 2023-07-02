@@ -2,7 +2,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 #KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://en-vivo.live/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6d842222f1715a59ad24623c21745344","kid":"87061469dad96757078704a03ee3c67f"}]}
@@ -11,7 +10,6 @@ https://1227-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 
 
 #KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://en-vivo.live/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d842222f1715a59ad24623c21745344":"87061469dad96757078704a03ee3c67f"}
@@ -20,7 +18,6 @@ https://1227-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 
 
 #KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://en-vivo.live/"
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6d842222f1715a59ad24623c21745344","kid":"87061469dad96757078704a03ee3c67f"}]}
@@ -28,7 +25,6 @@ https://1227-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 https://1227-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://en-vivo.live/"
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d842222f1715a59ad24623c21745344":"87061469dad96757078704a03ee3c67f"}
