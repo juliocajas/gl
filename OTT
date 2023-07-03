@@ -126,7 +126,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="237" tvg-logo="https://logo.iptveditor.com/tlnovelas.png"  group-title="CINE Y SERIES",TLNOVELAS
@@ -135,21 +135,25 @@ https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="236" tvg-logo="https://logo.iptveditor.com/telemundo.png"  group-title="ECUADOR",TELEMUNDO HD
 https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="116" tvg-logo="https://logo.iptveditor.com/lifetime.png"  group-title="ECUADOR",LIFETIME HD   
 https://live3-ott.izzigo.tv/out/u/dash/LIFETIME-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="32" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101361_dark_360w_270h.png"  group-title="CINE Y SERIES",MX NUESTRO CINE
@@ -178,12 +182,13 @@ https://v3.playerlatino.live/stream/m3u8/798|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a0baa6362ed50a6b350f6a58be5537240acbd30893db62b5136e1b0c63c8cfe6.png" group-title="CINE Y SERIES",CANTINFLAS
 https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=1011|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" group-title="CINE Y SERIES", DE PELICULA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0XkTZxpxgh7X5MSTfNL7pQ","kid":"IIAS0VS/USjcBEM8IuAGmA"}]}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="ENTRETENIMIENTO",LOS SIMPSONS HD
@@ -409,28 +414,33 @@ https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd|Use
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}]}
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#KODIPROP:mimetype=application/x-mpegURL
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" group-title="DEPORTES", AFIZZIONADOS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KycSshT/Fs-Tx-Cm-RL-400x400.jpg" group-title="MEXICO", BIT ME HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"04W4et5EQdIMXK7iqOQdpw","kid":"PnsoHBHw/xw/ftLQLQh5wQ"}]}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5szkx2/boomerang.png" group-title="INFANTILES", BOOMERANG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hwYUadrZZ1cHhwSgPuPGfw","kid":"bYQiIvFxWlmtJGI8IXRTRA"}]}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bobesponja.png" group-title="24/7", Bob Esponja 24/7
@@ -453,20 +463,22 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1035|User-Agent="Moz
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ok1h5oorxLGHm1JKKZTWVA","kid":"eM55icAMUHmcp9_ikbq9Wg"}]}
 https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" group-title="CINE Y SERIES", DE PELICULA PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" group-title="CINE Y SERIES", DE PELICULA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0XkTZxpxgh7X5MSTfNL7pQ","kid":"IIAS0VS/USjcBEM8IuAGmA"}]}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -689,60 +701,64 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zzjSAn3jr/zpUa/L1YNFjQ","kid":"F0PNcQHHPimDupKPv87DBw"}]}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1231|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="DEPORTES", TUDN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
-https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefoxhttps://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="CINE Y SERIES", GOLDEN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TMTTJFPS0pgxsKcz0nY/aQ","kid":"6goGK2O0sKWLNeEMAr8KuQ"}]}
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefoxhttps://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jp1TrGx/Golden-Edge-Logo.png" group-title="CINE Y SERIES", GOLDEN EDGE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bovVM3g1btf1ED2R77XlTg","kid":"mKqQy2ILlyoNDWalHNrKVg"}]}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="CINE Y SERIES", GOLDEN PLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TMTTJFPS0pgxsKcz0nY/aQ","kid":"6goGK2O0sKWLNeEMAr8KuQ"}]}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXm4SxG/canal-goldenmultiplex.jpg" group-title="CINE Y SERIES", GOLDEN MULTIPLEX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefoxhttps://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZkKFZ6/Logo-TDN.png" group-title="DEPORTES", TDN 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZkKFZ6/Logo-TDN.png" group-title="DEPORTES", TDN1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVPbvZM/qr-UC8x-C8-400x400.png" group-title="CINE Y SERIES", TLNOVELAS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
 https://live2-ott.izzigo.tv/out/u/dash/TLNOVELAS-SD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
