@@ -27,12 +27,10 @@ https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=274|User-Agent="Mozil
 #KODIPROP:mimetype=application/xml+dash
 https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=708|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-#KODIPROP:mimetype=application/x-mpegURL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE Y SERIES", CineLatino
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=295|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTINF:-1 tvg-id="CineLatino.mx", tvg-logo="https://cdn.mitvstatic.com/channels/ar_cine-latino_m.png" group-title="CINE Y SERIES", CineLatino
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8xhC+ZIaQSY+Xmb9TgDMcQ","kid":"FMZGiq1WUlmjICNXeseaOQ"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd|User-Agent="Mozilla/5.0 
 
 #KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="DEPORTES",WIN SPORTS
