@@ -1,15 +1,60 @@
-
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge,https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 #KODIPROP:mimetype=application/x-mpegURL
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/dtvsports.webp" group-title="ENTRETENIMIENTO",DSPORTS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="CINE Y SERIES",Nat Geo Mundo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=77|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="ECUADOR",TVC
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+https://channels1.futbolenvivo.xyz/streams3/mas
+
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/290/978/png-clipart-logo-tyc-sports-brand-trademark-mosaic-blue-text-thumbnail.png" group-title="DEPORTES",Tyc Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=274|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/vtv.webp" group-title="DEPORTES",VIVO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=708|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE Y SERIES", CineLatino
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=295|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="DEPORTES",WIN SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=754|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+
+
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/dtvsports.webp" group-title="DEPORTES",DSPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
 https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=974|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"108108
 
 #KODIPROP:mimetype=application/x-mpegURL
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/dtvsportsplus.webp" group-title="ENTRETENIMIENTO",DSPORTS+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/dtvsportsplus.webp" group-title="DEPORTES",DSPORTS+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
