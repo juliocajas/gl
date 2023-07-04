@@ -1,13 +1,48 @@
 
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge,https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png" group-title="DEPORTES", Dsports 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "8itiY1oYufZ4UUzxjHf9Nw", "kid": "e9932SFxO/SS25Wvj5fSkQ" } ], "type": "temporary" }
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1060
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" group-title="ECUADOR", Dsports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty":"oct","k":"I1iYzbELDNujXqLOlPux+w","kid":"qwIKFxDWMBaN4haYN1pDnA"}],"type":"temporary"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" group-title="DEPORTES", Dsports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nloG4oA7AqYAbYwZ1HOKNQ","kid":"QJRZ3YklMqCumZR71GtOSA"}],"type":"temporary"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1062
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SP5jpff/dtvpe.png" group-title="DEPORTES", Dsports Ec
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v8Tp8+NVuC4R/F3f0xPD8g","kid":"X7ZNETVTOLO9+LGC0o66Hw"}],"type":"temporary"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1061
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" group-title="DEPORTES", Dsports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty": "oct","k":"6nE40HAJ3/fr5uL+3Ov2YA","kid":"+oeWUQvwNX2fw5vYG7/KGA"}],"type":"temporary"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1058
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" group-title="DEPORTES", Dsports 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty": "oct","k":"ywu6RSL/zZCotRVBoPz64A","kid":"uw7Kpq5iM2GXxk1BKcagnQ"}],"type":"temporary"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
+
 #KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tv-azteca-corazon2514.logowik.com.webp" group-title="ENTRETENIMIENTO",CORAZÓN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
 https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=166|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-
 
 #EXTINF:-1 tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2015/07/starz_encore2.jpg" group-title="CINE Y SERIES", STARZ ENCORE ACTION
 https://v3.playerlatino.live/stream/m3u8/682|user-agent=Lavf/57.71.001
