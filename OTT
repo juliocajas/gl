@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge,https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="DEPORTES", DIRECTV SPORTS ec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" group-title="DEPORTES", DIRECTV SPORTS ec
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bb0ecaa6ae62336197c64d4129c6a09d": "cb0bba4522ffcd90a8b51541a0fcfae0"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057
