@@ -7,12 +7,12 @@
 #KODIPROP:inputstream.adaptive.license_key=7e41a6feee6cdb15:0bb291fd3d2e46a6bd6b23f78ec28479
 https://stream-cdn-iad.vaughnsoft.net/play/live_fox_hdr.flv|User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 
-#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",EXTREM
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",EXTREM@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=qjo7XBSBVTNiQelK-MQT7B3sgWk9xSaaxL52PY4jVVM
 #EXTVLCOPT:http-referrer=https://m.ok.ru/
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1aa7d236e4ba28478d281668703d4fec5fa0b170&st.mq=1&st.mvid=6695203184199&st.ip=190.171.83.15&st.dla=on&st.exp=9689135373603&st.hls=off&_prevCmd=movieLayer&tkn=5632|User-Agent="Mozilla/5.0 (Linux; Android 11; TECNO KG5jBuild/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile"
+https://vsd120.mycdn.me/hls/3849692514887.m3u8/sig/Pqr0UArZ3Qg/expires/9689049325054/srcIp/190.171.83.100/urls/45.136.22.92/clientType/8/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8?p|User-Agent="Mozilla/5.0 (Linux; Android 11; TECNO KG5jBuild/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/114.0.5735.147 Mobile"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" group-title="DEPORTES", DIRECTV SPORTS ec
 #KODIPROP:inputstream.adaptive.license_type=clearkey
