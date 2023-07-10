@@ -1,5 +1,12 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge,https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
+#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="ENTRETENIMIENTO",hbo extrem
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=971|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/dtvsports.webp" group-title="Sports",fox estrenos
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://vaughn.live/cinemundo_plus
