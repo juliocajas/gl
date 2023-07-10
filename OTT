@@ -1557,9 +1557,9 @@ https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:http-referrer=http://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YjA1NDQyOGYtZWFkYy0zZTkwLWI0OGYtZGI5MGQwODIxMmQz
-#EXTINF:-1 tvg-id="96" tvg-logo="https://logo.iptveditor.com/hbo2.png"  group-title="CINE Y SERIES",HBO 2 HD
+#EXTINF:-1 tvg-id="96" tvg-logo="http://logo.iptveditor.com/hbo2.png"  group-title="CINE Y SERIES",HBO 2 HD
 http://live5-ott.izzigo.tv/out/u/dash/HBO2-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
