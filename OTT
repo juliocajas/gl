@@ -1,6 +1,13 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge,https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 #KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="ENTRETENIMIENTO",tnt novelas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+http://3.ultimate2019.com/stream/hls/825|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
+
+#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="ENTRETENIMIENTO",hbo extrem
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
