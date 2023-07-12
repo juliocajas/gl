@@ -1,6 +1,15 @@
 #EXTM3U
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge,https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="Sports",aaaaaa
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer="https://ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bdcf12a2d68305db6c5a1521efd11c7:ff22ccb2e8b75305f634ec90d18dc01c
+#KODIPROP:inputstream.adaptive.license_key='XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo'
+https://1227-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f0uKBGezfG0/maxresdefault.jpg" group-title="Movies",peliculas accion
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://vaughn.live/cinemundo_plus
