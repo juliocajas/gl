@@ -2,13 +2,13 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge,https://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="Sports",aaaaaa
-#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:mimetype=application/dash+xml
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer="https://ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"
+#EXTVLCOPT:http-referrer="https://en-vivo.live/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bdcf12a2d68305db6c5a1521efd11c7:ff22ccb2e8b75305f634ec90d18dc01c
-#KODIPROP:inputstream.adaptive.license_key='XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo'
-https://1227-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+https://1227-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/f0uKBGezfG0/maxresdefault.jpg" group-title="Movies",peliculas accion
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1095,7 +1095,7 @@ https://anbalancer.express.com.ar/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hgtv.webp" group-title="WORLD", HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=bdfac486d5255d2396945102d1d3884f:8c46e4e0890780d7816e3888b7c738c7
 https://dtvott-cbc.akamaized.net/dash_live_1144/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
