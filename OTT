@@ -448,7 +448,8 @@ https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8|User-Agent="Mozilla/5.
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazonas Ec
-https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/live-audio_0=96000-video=2000000.m3u8|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTVLCOPT:http-referrer=https://cdn.jwplayer.com/
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1626034121221763072/bpKN0Vsp_400x400.jpg" group-title="ECUADOR", AZ CORAZÓN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
